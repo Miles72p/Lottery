@@ -85,7 +85,7 @@ txt = tk.Text(window, width=30, height=14)
 txt.grid(row = 0, column = 1, padx = 5, pady = 5)
 
 # Message 'Good Luck !!!'
-lbl_good_luck = tk.Label(frm, text = '\n\n\n\nGood Luck !!!',font=('Arial Bold', 12), fg = 'green' ) # Label "Good Luck"
+#lbl_good_luck = tk.Label(frm, text = '\n\n\n\nGood Luck !!!',font=('Arial Bold', 12), fg = 'green' ) # Label "Good Luck"
 lbl_good_luck = tk.Label(frm, text = '\n\n\n\n            ',font=('Arial Bold', 12), fg = 'green' ) # Label "Good Luck"
 lbl_good_luck.grid(row = 5, column = 0)
 
